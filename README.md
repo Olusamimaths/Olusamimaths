@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olusamimaths" alt="olusamimaths" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Go, gRPC, DDD**
+- 🌱 I’m currently learning **Kubernetes, Go, gRPC, and DDD**
 
 - 📝 I regularly write articles on [https://solathecoder.medium.com/](https://solathecoder.medium.com/)
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, and Technical Writing Go**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, and Technical Writing, Go**
 
 - 📫 How to reach me **olusola.samuel.oluwatobi@gmail.com**
 
