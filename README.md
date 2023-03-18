@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://solathecoder.medium.com/](https://solathecoder.medium.com/)
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, and Technical Writing, Go**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
 
 - 📫 How to reach me **olusola.samuel.oluwatobi@gmail.com**
 
