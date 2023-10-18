@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olusamimaths" alt="olusamimaths" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Go, gRPC, and DDD**
+- 🌱 I’m currently learning **Kubernetes, Go, Rust, and DDD**
 
-- 📝 I regularly write articles on [https://solathecoder.medium.com/](https://solathecoder.medium.com/)
+- 📝 I regularly write articles on  [https://samolusola.me/](https://samolusola.me/), I also create Youtube videos [https://youtube.com/@samolusola/](youtube.com/@samolusola)
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
 
