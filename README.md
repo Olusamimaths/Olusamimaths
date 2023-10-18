@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Go, Rust, and DDD**
 
-- 📝 I regularly write articles on  [https://samolusola.me/](https://samolusola.me/), I also create Youtube videos [https://youtube.com/@samolusola/](youtube.com/@samolusola)
+- 📝 I regularly write articles on  [https://samolusola.me/](https://samolusola.me/), I also create Youtube videos [https://youtube.com/@samolusola/](https://youtube.com/@samolusola)
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
 
