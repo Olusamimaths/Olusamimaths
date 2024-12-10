@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
 
-- 📫 How to reach me **olusola.samuel.oluwatobi@gmail.com**
-
 - ⚡ Fun fact: **I enjoy playing Fifa**
 
 ### Blogs posts
