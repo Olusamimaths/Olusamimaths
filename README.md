@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Olusola</h1>
-<h3 align="center">A passionate Software Engineer, with heavy Backend Engineering experience and Frontend Experience. I'm also an aspiring Infrastructure Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olusamimaths" alt="olusamimaths" /></a> </p>
 
